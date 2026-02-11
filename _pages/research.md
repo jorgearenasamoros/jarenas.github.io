@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 **Revisiting Fundamentals of the European Gas Market: The Role of Supply Substitution**  
-[Slides](/assets/files/Paper_Gas/slides.pdf) [Paper](/assets/files/Paper_Gas/draft.pdf)  
+[Slides](/assets/files/paper_gas/slides.pdf) [Paper](/assets/files/paper_gas/draft.pdf)  
 <details>
 <summary><strong>Abstract</strong> </summary>
 <p>
