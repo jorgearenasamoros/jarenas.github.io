@@ -19,7 +19,8 @@ description: "PhD Candidate in University of Alicante"
 #twitter_username: username
 github_username: jorgearenasamoros
 minimal_mistakes_skin: "air"
-url: "https://jarenas.github.io"
+url: "https://jorgearenasamoros.github.io"
+baseurl: "/jarenas.github.io"
 search: true
 
 # Build settings

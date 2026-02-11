@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Please find my CV attached [here](/assets/cv.pdf)
+Please find my CV attached [here]({{ '/assets/cv.pdf' | relative_url }})
 
 
 
