@@ -7,8 +7,8 @@
 // Hacer la foto más grande y quitar el enlace clickable
 .author__avatar {
   img {
-    max-width: 250px !important;  // Tamaño (ajusta: 200px, 300px, etc.)
-    border-radius: 50% !important;  // Mantiene círculo
+    max-width: 320px !important;  // Tamaño (ajusta: 200px, 300px, etc.)
+    border-radius: 10px !important;  // Mantiene círculo
     // O usa: border-radius: 10px !important; para rectangular con esquinas
     // O usa: border-radius: 0 !important; para totalmente rectangular
   }
@@ -30,7 +30,7 @@
 
 // Sidebar más ancha para acomodar la foto grande
 .sidebar {
-  width: 280px !important;  // Ajusta según el tamaño de tu foto
+  width: 300px !important;  // Ajusta según el tamaño de tu foto
 }
 
 @media (max-width: 768px) {
