@@ -3,52 +3,79 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
-toc: true
-toc_label: "Años"
 ---
 
-## 2024
+## Working Papers
 
-**Título del Paper**  
-*Tu Nombre*, Coautor1, Coautor2  
-*Conference/Journal Name*, 2024  
-[[PDF]](/assets/files/paper2024.pdf) [[Code]](https://github.com/tunombre/proyecto) [[BibTeX]](#bibtex1)
+**Título de tu Paper Principal**  
+[Slides](/assets/files/paper1-slides.pdf) [Paper](/assets/files/paper1-draft.pdf)  
+*(Job Market Paper)* o *(Submitted)* o *(Under Review)*
 
-<details id="bibtex1">
-<summary>BibTeX</summary>
-<pre>
-@inproceedings{tunombre2024,
-  title={Título del Paper},
-  author={Apellido, Tu Nombre and Coautor1 and Coautor2},
-  booktitle={Conference Name},
-  year={2024}
-}
-</pre>
-</details>
+**Presented at:**  
+[Conference Name](https://conference-url.com) — Organizer  
+; [Another Conference](https://conf2.com) — Organizer  
+; [Third Conference](https://conf3.com) — Organizer
+
+*Abstract:* Este paper estudia [breve descripción de tu investigación]. Desarrollamos un modelo de [metodología] calibrado a [contexto]. Los resultados muestran que [principales hallazgos]. Validamos el mecanismo usando [datos/métodos]. Los hallazgos subrayan [implicaciones principales].
 
 ---
 
-## 2023
+**Segundo Working Paper**  
+with [Coautor](https://url.com)  
+[Slides](/assets/files/paper2-slides.pdf) [Paper](/assets/files/paper2-draft.pdf)
 
-**Otro Paper Importante**  
+**Presented at:**  
+[Workshop Name](https://workshop-url.com) — Universidad  
+; [Seminar Series](https://seminar.com) — Institution
+
+*Abstract:* Este paper examina [tema de investigación]. Documentamos que [hallazgo empírico]. Para explicar estos patrones, desarrollamos [modelo/framework]. Los hallazgos destacan [contribución principal].
+
+---
+
+## Publications
+
+**Published Paper Title**  
 *Tu Nombre*, Coautor  
-*Journal Name*, vol. X, no. Y, pp. Z-W, 2023  
-[[PDF]](/assets/files/paper2023.pdf) [[DOI]](https://doi.org/XX.XXXX/XXXXX)
+***Journal Name***, Volume(Issue), Pages, Year  
+[Paper](/assets/files/published-paper.pdf) [DOI](https://doi.org/xxx) [Code](https://github.com/user/repo)
+
+*Abstract:* [Breve resumen del paper publicado]
 
 ---
 
-## Preprints
-
-**Work in Progress Title**  
-*Tu Nombre*, et al.  
-*arXiv preprint arXiv:XXXX.XXXXX*, 2024  
-[[arXiv]](https://arxiv.org/abs/XXXX.XXXXX)
+**Another Publication**  
+*Tu Nombre*, Coautor1, Coautor2  
+***Conference Proceedings***, Year  
+[Paper](/assets/files/paper.pdf) [Slides](/assets/files/slides.pdf)
 
 ---
 
-## Tesis
+## Work in Progress
 
-**Master Thesis: Título de tu Tesis**  
-*Tu Nombre*  
-Universidad, 2020  
-[[PDF]](/assets/files/master-thesis.pdf)
+**Project Title**  
+with [Collaborator](https://url.com)
+
+*Description:* [Breve descripción del proyecto en curso]
+
+---
+
+**Another Project**  
+
+*Description:* [Descripción]
+
+---
+
+## Other Research Output
+
+### Policy Reports
+
+- **Report Title**, Institution, Year. [Link](/assets/files/report.pdf)
+
+### Book Chapters
+
+- **Chapter Title** in *Book Name*, Editors, Publisher, Year.
+
+### Theses
+
+- **PhD Dissertation: Title**, Universidad, Year. [PDF](/assets/files/dissertation.pdf)
+- **Master Thesis: Title**, Universidad, Year. [PDF](/assets/files/master-thesis.pdf)
