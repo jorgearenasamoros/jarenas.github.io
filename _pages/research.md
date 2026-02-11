@@ -18,62 +18,7 @@ The 2022 European energy crisis exposed the central role of supply substitution 
 
 ---
 
-**Segundo Working Paper**  
-with [Coautor](https://url.com)  
-[Slides](/assets/files/paper2-slides.pdf) [Paper](/assets/files/paper2-draft.pdf)
+## Worki in progress
+**Nonlinear price dynamics in gas and electricity spot markets** 
 
-**Presented at:**  
-[Workshop Name](https://workshop-url.com) — Universidad  
-; [Seminar Series](https://seminar.com) — Institution
-
-*Abstract:* Este paper examina [tema de investigación]. Documentamos que [hallazgo empírico]. Para explicar estos patrones, desarrollamos [modelo/framework]. Los hallazgos destacan [contribución principal].
-
----
-
-## Publications
-
-**Published Paper Title**  
-*Tu Nombre*, Coautor  
-***Journal Name***, Volume(Issue), Pages, Year  
-[Paper](/assets/files/published-paper.pdf) [DOI](https://doi.org/xxx) [Code](https://github.com/user/repo)
-
-*Abstract:* [Breve resumen del paper publicado]
-
----
-
-**Another Publication**  
-*Tu Nombre*, Coautor1, Coautor2  
-***Conference Proceedings***, Year  
-[Paper](/assets/files/paper.pdf) [Slides](/assets/files/slides.pdf)
-
----
-
-## Work in Progress
-
-**Project Title**  
-with [Collaborator](https://url.com)
-
-*Description:* [Breve descripción del proyecto en curso]
-
----
-
-**Another Project**  
-
-*Description:* [Descripción]
-
----
-
-## Other Research Output
-
-### Policy Reports
-
-- **Report Title**, Institution, Year. [Link](/assets/files/report.pdf)
-
-### Book Chapters
-
-- **Chapter Title** in *Book Name*, Editors, Publisher, Year.
-
-### Theses
-
-- **PhD Dissertation: Title**, Universidad, Year. [PDF](/assets/files/dissertation.pdf)
-- **Master Thesis: Title**, Universidad, Year. [PDF](/assets/files/master-thesis.pdf)
+**New measures of market-based monetary policy surprises in macroeconomic outcomes**
