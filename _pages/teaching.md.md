@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### University of Alicante | 2023 - Present
+
 **Teaching Assistant** | Departamento de Fundamentos del Análisis Económico
 
 - **Introduction to Statistics** (2022-23, 2023-24) - Probability theory and statistics, undergraduate
