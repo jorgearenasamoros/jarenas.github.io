@@ -5,7 +5,7 @@ permalink: /home/
 author_profile: true
 ---
 
-## Home
+
 
 Welcome to my personal website!
 
