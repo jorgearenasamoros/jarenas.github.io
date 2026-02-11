@@ -18,7 +18,8 @@ The 2022 European energy crisis exposed the central role of supply substitution 
 
 ---
 
-## Worki in progress
+## Work in progress
 **Nonlinear price dynamics in gas and electricity spot markets** 
-
+(Abstract coming soon!)
 **New measures of market-based monetary policy surprises in macroeconomic outcomes**
+(Abstract coming soon!)
