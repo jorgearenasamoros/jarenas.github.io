@@ -20,7 +20,7 @@ description: "PhD Candidate in University of Alicante"
 github_username: jorgearenasamoros
 minimal_mistakes_skin: "air"
 url: "https://jorgearenasamoros.github.io"
-baseurl: "/jarenas.github.io"
+baseurl: ""
 search: true
 
 # Build settings
